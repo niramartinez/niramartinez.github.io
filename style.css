@@ -15,22 +15,38 @@ B8DBD9
 51747F*/ 
 /* navigation */
 .nav {
-background-color:#EAF2FC;
- position:fixed;
-    top:0;
+    height:50px;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    left: 0;
     width:100%;
-z-index: 1;
+background-color:#EAF2FC;
+
+
 }
+.logo {font-family: 'Berkshire Swash', cursive;
+    width: 350px;
+    padding-left:25px;
+}
+.navempty {
+    flex:1;
+}
+
 .nav ul {
     list-style-type:none;
-    padding: 10px 0px 10px 500px;
-    margin: 0px;
-    display:flex;
-    justify-content: flex-end;
+    padding: 10px 30px 10px 200px;
+flex:1;   
     
 }
+
 .nav li{
-    padding-right: 8%;
+    flex:1;
+display:inline-block;
+    flex-direction: row;
+padding-right:10px;
 }
 .nav a{
     text-decoration: none;
@@ -262,7 +278,7 @@ color: #E23863;
 
 /*faq page */
 .faqcover {
-    background-image:image(niramartinez.github.io/leggodonut.jpeg);
+    background-image:url(niramartinez.github.io/leggodonut.jpeg);
     background-size:cover;
     text-align:center;
     display: flex;
