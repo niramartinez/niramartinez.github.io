@@ -90,14 +90,14 @@ z-index: 1;
     color:#F49CBB;
 }
 .homebreak{
-    background-image:url(images/moredonuts.jpeg);
+    background-image:url(niramartinez.github.io/moredonuts.jpeg);
     background-size:cover;
     background-repeat: no-repeat;
     height:600px;
     width:100%;
 }
 .faqcover {
-    background-image: url(images/leggodonut.jpeg);
+    background-image: url(niramartinez.github.io/leggodonut.jpeg);
     height:300px;
     width:100%;
     background-size: cover;
@@ -124,7 +124,7 @@ z-index: 1;
 /*shop page*/
 .shopcover {
     width:100%;
-    background-image: url(images/shopcover.jpeg);
+    background-image: url(niramartinez.github.io/shopcover.jpeg);
    background-repeat: no-repeat;
     background-size: cover; 
     display: flex;
@@ -152,38 +152,38 @@ background-color: #EAF2FC;
 .shopitems-pic1{
     height: 200px;
     width:200px;
-    background-image:url(images/donut1.jpeg);
+    background-image:url(niramartinez.github.io/donut1.jpeg);
     background-size:cover;
 }
 .shopitems-pic2{
     height:200px;
     width:200px;
-    background-image: url(images/donut4.jpeg);
+    background-image: url(niramartinez.github.io/donut4.jpeg);
     background-size:cover;
 }
 .shopitems-pic3{
     height:200px;
     width:200px;
-    background-image: url(images/donut2.jpeg);
+    background-image: url(niramartinez.github.io/donut2.jpeg);
     background-size:cover;
 }
 
 .shopitems-pic4{
     height: 200px;
     width:200px;
-    background-image:url(images/donut5.jpeg);
+    background-image:url(niramartinez.github.io/donut5.jpeg);
     background-size:cover;
 }
 .shopitems-pic5{
     height:200px;
     width:200px;
-    background-image:image(niramartinez.github.io/donut3.jpeg);
+    background-image:url(niramartinez.github.io/donut3.jpeg);
     background-size:cover;
 }
 .shopitems-pic6{
     height:200px;
     width:200px;
-    background-image: url(images/donut6.jpeg);
+    background-image: url(niramartinez.github.io/donut6.jpeg);
     background-size:cover;
 }
 
@@ -212,7 +212,7 @@ color: #E23863;
 /*contact page*/
 
 .contactcover{
-    background-image: url(images/attempt10k.jpeg);
+    background-image: url(niramartinez.github.io/attempt10k.jpeg);
     background-repeat: no-repeat;
     background-size: cover; 
     display: flex;
@@ -262,7 +262,7 @@ color: #E23863;
 
 /*faq page */
 .faqcover {
-    background-image:url(images/leggodonut.jpeg);
+    background-image:url(niramartinez.github.io/leggodonut.jpeg);
     background-size:cover;
     text-align:center;
     display: flex;
