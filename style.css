@@ -1,5 +1,6 @@
 
-body {font-family: 'Noto Sans', sans-serif;
+body {font-family: 
+'Noto sans', sans-serif;
 margin:0px;
 letter-spacing: 0.2em;}
 
@@ -15,6 +16,7 @@ B8DBD9
 51747F*/ 
 /* navigation */
 .nav {
+ font-family: 'Noto Sans', sans-serif;
     height:50px;
     position: fixed;
     display: flex;
@@ -30,6 +32,7 @@ background-color:#EAF2FC;
 .logo {font-family: 'Berkshire Swash', cursive;
     width: 350px;
     padding-left:25px;
+    color:#1076BA;
 }
 .navempty {
     flex:1;
@@ -43,6 +46,8 @@ flex:1;
 }
 
 .nav li{
+    font-family: 'Noto Sans', sans-serif;
+
     flex:1;
 display:inline-block;
     flex-direction: row;
@@ -312,4 +317,4 @@ vertical-align: top;
     padding-left:40px;
     border-left:3px #F49CBB solid;
 }
-
+.
