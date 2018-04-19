@@ -236,7 +236,7 @@ color: #E23863;
 
 /*contact page*/
 
-.contactcover{
+.ccover{
     background-image: url(niramartinez.github.io/attempt10k.jpeg);
     background-repeat: no-repeat;
     background-size: cover; 
@@ -246,7 +246,7 @@ color: #E23863;
     width:100%;
 }
 
-.contactcover h1{
+.ccover h1{
     color: #E23863;
     opacity: .95;
     padding: 350px 700px 0px 0px;
@@ -254,7 +254,7 @@ color: #E23863;
     text-align: center;
 }
 
-.contactforms {
+.cforms {
     background-color:#EAF2FC;
     text-align: center;
         color:#E23863;
