@@ -311,12 +311,12 @@ color: #E23863;
 }
 .qta h2{
     flex:1;
-width:300px;
+width:400px;
     padding-left:20px;
 }
 
 .qta h4{
-width:800px;
+width:1000px;
 vertical-align: top;
     padding-left:40px;
     border-left:3px #F49CBB solid;
