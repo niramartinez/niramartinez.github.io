@@ -32,7 +32,11 @@ background-color:#EAF2FC;
 .logo {font-family: 'Berkshire Swash', cursive;
     width: 350px;
     padding-left:25px;
-    color:#1076BA;
+   
+}
+
+.logo h1{
+    color: color:#1076BA;
 }
 .navempty {
     flex:1;
@@ -317,4 +321,3 @@ vertical-align: top;
     padding-left:40px;
     border-left:3px #F49CBB solid;
 }
-.
